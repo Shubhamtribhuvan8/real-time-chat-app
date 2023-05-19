@@ -12,14 +12,14 @@ exports.createChatEngineUser = functions.auth.user().onCreate((user) => {
       // eslint-disable-next-line indent
     },
     // eslint-disable-next-line object-curly-spacing, comma-dangle
-    { headers: { "Private-Key": "4521c5f3-f0ec-4270-90ad-c00ae2ed7798" } }
+    { headers: { "Private-Key": "fbf32438-52b7-4716-961c-e1d36f200264" } }
   );
 });
 
 exports.deleteChatEngineUser = functions.auth.user().onDelete((user) => {
   axios.delete("https://api.chatengine.io/users/me/", {
     headers: {
-      "Project-ID": "83d862c2-d123-48c9-b71f-d35ce4007c4f",
+      "Project-ID": "b39efe72-80e0-4bbe-a840-e2bbfb6a82f6",
       "User-Name": user.email,
       "User-Secret": user.uid,
     },

@@ -15,6 +15,7 @@
   "main": "index.js",
   "dependencies": {
     "axios": "^1.4.0",
+    "chat-engine": "^0.9.21",
     "dotenv": "^16.0.3",
     "firebase-admin": "^11.8.0",
     "firebase-functions": "^4.3.1"
