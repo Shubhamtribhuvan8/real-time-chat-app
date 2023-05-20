@@ -15,7 +15,7 @@ export default function ChatPage(props: ChatProps) {
         Sign Out
       </button>
       <PrettyChatWindow
-        projectId="83d862c2-d123-48c9-b71f-d35ce4007c4f"
+        projectId="b39efe72-80e0-4bbe-a840-e2bbfb6a82f6"
         username={props.user.email || ""}
         secret={props.user.uid}
         style={{ height: "100%" }}
