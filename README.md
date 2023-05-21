@@ -31,6 +31,13 @@ Users can send private messages to other users. This feature allows users to hav
 # Real Time Chat Application
 This repository contains a React JS app written in Javascript.
 
+# Technologies Used
+
+    1.React: JavaScript library for building user interfaces
+    2.Firebase: Backend-as-a-Service platform for authentication and real-time data synchronization
+    3.Firebase Authentication: Google authentication provider for user login and logout
+    4.Firebase Realtime Database: Real-time database to store and synchronize chat room data
+
 ## Prerequisites
 
 - Node.js (version 12 or above)
@@ -63,6 +70,8 @@ Start the development server by running the following command:
 ```npm run start```
 
 After a few seconds, the project will start, and you can access it at ```http://localhost:3000``` in your default browser.
+
+
 
 ## Deploying on Vercel
  Install the Vercel CLI globally by running the following command in your terminal:
