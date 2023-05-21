@@ -43,7 +43,6 @@ const PopUpGoogle = () => {
       })
       .catch((error) => {
         setUser({});
-        navigate("/");
       });
   };
 
