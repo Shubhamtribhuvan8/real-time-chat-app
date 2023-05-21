@@ -3,9 +3,9 @@
 ## What it is ?
 
 
-# Next.js TypeScript App
+# Real Time Chat Application
 
-This repository contains a Next.js app written in TypeScript.
+This repository contains a React JS app written in Javascript.
 
 ## Prerequisites
 
