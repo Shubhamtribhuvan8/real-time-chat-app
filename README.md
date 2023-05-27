@@ -8,7 +8,7 @@
 ![3](https://github.com/Shubhamtribhuvan8/real-time-chat-app/assets/106821254/344a0d98-a294-43ff-8377-2bee07e7139b)
 
 # Real Time Chat Application
-This is a chat application that allows users to communicate with each other in real time. It includes the following features:
+This is a chat application that allows users to communicate with each other in real time. It includes the following features:-
 # Features
 # 1. Google User Authentication
 
